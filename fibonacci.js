@@ -1,3 +1,5 @@
+// Iterative method
+
 function fibs(n) {
   if (n <= 0) {
     return [];
@@ -18,6 +20,9 @@ function fibs(n) {
   }
   return result;
 }
+
+
+// Recursive method
 
 function fibsRec(n) {
   if (n <= 0) return [];

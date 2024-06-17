@@ -29,10 +29,3 @@ module.exports = {
   mergeSort,
   merge
 }
-
-/* To run this in Terminal:
-
-cd to the correct folder
-Type "node"
-Enter "const { mergeSort, merge } = require("./merge-sort");"
-Type "mergeSort(yourArray);" to sort your array. */
